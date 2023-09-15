@@ -1,0 +1,14 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+}
+
+.rrq {text-align: center;}
+.mpl{text-align: center;}
+body{background-color: rgb(77, 81, 79);}
+.header{background-color: rgb(50, 48, 48);
+text-align: center;
+color: white; 
+height: 50px;
+padding-top: 25px;}
